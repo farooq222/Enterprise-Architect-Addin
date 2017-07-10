@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<node1>
+		<record1/>
+		<record2/>
+	</node1>
+	<node2>
+		<record/>
+	</node2>
+	<node3>
+		<record1/>
+		<record2/>
+	</node3>
+</root>

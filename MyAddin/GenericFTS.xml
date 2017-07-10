@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Failure>
+	  <child>
+		Sporadic Timing Failure
+		<child>
+			Sporadic Duration Failure	
+			<child>
+				<child>
+					Sporadic Prolongation
+					<child>
+						Permanent Prolongation
+					</child>
+				</child>
+				<child>
+					Permanent Duration Failure
+				
+					<child>
+						<child>
+							Permanent Prolongation
+						</child>
+						<child>
+							Permament Interupt
+						</child>
+					</child>
+				</child>	
+			</child>
+		</child>
+	  </child>  
+</Failure>
