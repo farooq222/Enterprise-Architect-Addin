@@ -1,0 +1,8 @@
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\obj\Debug\MyAddin.Form1.resources
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\obj\Debug\MyAddin.csproj.GenerateResource.Cache
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\bin\Debug\MyAddin.dll
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\bin\Debug\MyAddin.pdb
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\bin\Debug\MyAddin.tlb
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\obj\Debug\MyAddin.dll
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\obj\Debug\MyAddin.pdb
+C:\Users\faroo\Documents\Visual Studio 2017\Projects\MyAddin\MyAddin\obj\Debug\MyAddin.csprojResolveAssemblyReference.cache
